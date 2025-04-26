@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=T6B6sj6ZfqU  -  Set up firebase in flutter
+https://www.youtube.com/watch?v=4TFbXepOjLI&t=114s - Spotify in flutter
+https://www.youtube.com/watch?v=Xe-8igE1_JI - Firebase Authentication in flutter
+https://www.youtube.com/watch?v=Jvj9q0hNtps - Keeping user logged in flutter
