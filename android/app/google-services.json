@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337882112045",
+    "project_id": "whos-the-imposter-a6ffe",
+    "storage_bucket": "whos-the-imposter-a6ffe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337882112045:android:5adc681c537744425158a4",
+        "android_client_info": {
+          "package_name": "com.example.whos_the_imposter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQQyxpGvIVeT-PNECC5ISqpKgoU5JCAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
